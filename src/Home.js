@@ -33,7 +33,7 @@ function Home() {
             image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
           />
           <Product
-            title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor"
+            title="Sita don"
             price={199.99}
             rating={3}
             image="https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"
